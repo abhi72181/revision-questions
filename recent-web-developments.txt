@@ -10,13 +10,39 @@
 #8 JavaScript Frameworks.
 
 2)Explain a project that you have built?
-=>
+=>I have built the  4 projects till now that are fabbag_clone, mamaearth_clone, bewakoof_clone, and meanbuy_clone.
+Talking about my individual project that is meanbuy_clone.
+
+a)First click on https://meanbuy-clone-alpha.vercel.app/ to reach the home page where you can see the navbar footer and the body of homepage, Navbar is Provided with many routes and links and it also has a cart link that is a protected route, so without logging in user cannot open that cart page.
+
+b)Then after checking cart link user will be redirected to the login page because of protected route and then he has to login in order to see the cart page.
+
+c) User can manually signup and login as there is a link provided for login and signup but do keep in mind that I have used json-server, so the email and password of login should be according to json-server for eg:-(email:-eve.holt@reqres.in) & (password:- cityslicka). And then user gets logged in after successful authentication.
+
+d)So in the categories section there are many list of items where user can filter and sort and then he can add the product to the cart and then he can visit the cart and from there he can delete items from the cart and then he can proceed to checkout page.
+
+e)In checkout page, user has to fill all the contact details and there he can set the promocode also. If a person enters "meanbuy30" he gets 30% discount.
+
+f)So after that user can proceed to payment page where he can enter the otp which is already set to "1234". Then atlast he sees the thanks page.
 
 3)Whats something exciting that you have built?
-=>
+=>I have built the  4 projects till now that are fabbag_clone, mamaearth_clone, bewakoof_clone, and meanbuy_clone.
+Talking about my individual project that is meanbuy_clone.
+
+a)First click on https://meanbuy-clone-alpha.vercel.app/ to reach the home page where you can see the navbar footer and the body of homepage, Navbar is Provided with many routes and links and it also has a cart link that is a protected route, so without logging in user cannot open that cart page.
+
+b)Then after checking cart link user will be redirected to the login page because of protected route and then he has to login in order to see the cart page.
+
+c) User can manually signup and login as there is a link provided for login and signup but do keep in mind that I have used json-server, so the email and password of login should be according to json-server for eg:-(email:-eve.holt@reqres.in) & (password:- cityslicka). And then user gets logged in after successful authentication.
+
+d)So in the categories section there are many list of items where user can filter and sort and then he can add the product to the cart and then he can visit the cart and from there he can delete items from the cart and then he can proceed to checkout page.
+
+e)In checkout page, user has to fill all the contact details and there he can set the promocode also. If a person enters "meanbuy30" he gets 30% discount.
+
+f)So after that user can proceed to payment page where he can enter the otp which is already set to "1234". Then atlast he sees the thanks page.
 
 4)What are you most excited about?
-=>
+=>Right now as a fresher in this web developement field, Iam most excited of getting a job as a software engineer in a reputable organisation.
 
 5)Why do coding standards matter? What are some patterns you follow?
 =>Coding standards help in the development of software programs that are less complex and thereby reduce the errors. If programming standards in software engineering are followed, the code is consistent and can be easily maintained. This is because anyone can understand it and can modify it at any point in time.
